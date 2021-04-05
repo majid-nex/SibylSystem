@@ -17,12 +17,12 @@
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
-    "TEMP_DOWNLOAD_DIRECTORY": {
+    "API_ID": {
       "description": "Where downloaded files will go.",
       "value": "./userbot/DOWNLOADS/",
       "required": false
     },
-    "F_BAN_LOGGER_GROUP": {
+    "API_HASH": {
       "description": "Put Group id Same As PRIVATE_GROUP_ID.",
       "value": "",
       "required": false
