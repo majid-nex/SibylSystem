@@ -1,7 +1,38 @@
-API_ID: int = 12345
-API_HASH: str = "XYZ"
-STRING_SESSION: str = "XYZ:XYZ:XYZ...."
-Sibyl_logs: Union[str, int] = 123456789
-Sibyl_approved_logs: Union[str, int] = 123456789
-GBAN_MSG_LOGS: Optional[Union[str, int]] = None
-BOT_TOKEN: str = "123456:shsiajskzkxhxj"
+{
+  "name": "ZEROTWO BOT",
+  "description": "The best userbot made by @Mr_godfather9. Made with Love And Phone And Hardwork and... Nhi aur kahi se to nhi bana.. ",
+  "logo": "https://telegra.ph/file/a44f1363bddbba84a2b98.jpg",
+    "keywords": [
+    "telegram",
+    "userbot",
+    "plugin",
+    "modular",
+    "productivity"
+  ],
+  "repository": "https://github.com/majid-nex/LEGEND-BOT/",
+  "website": "https://github.com/legendx22/LEGEND-BOT/",
+  "success_url": "https://t.me/teamishere",
+  "env": {
+    "ENV": {
+      "description": "Setting this to ANYTHING will enable heroku.",
+      "value": "ANYTHING"
+    },
+    "TEMP_DOWNLOAD_DIRECTORY": {
+      "description": "Where downloaded files will go.",
+      "value": "./userbot/DOWNLOADS/",
+      "required": false
+    },
+    "F_BAN_LOGGER_GROUP": {
+      "description": "Put Group id Same As PRIVATE_GROUP_ID.",
+      "value": "",
+      "required": false
+    },
+    "ALIVE_NAME": {
+      "description": "Fill your Full name or Username like @LEGENDX22.",
+      "value": "",
+      "required": false
+    },
+    "ALIVE_MSG": {
+      "description": "Set Custom awake Message When entering .awake command.",
+      "value": "",
+      "required": false
