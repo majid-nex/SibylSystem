@@ -36,3 +36,4 @@
       "description": "Set Custom awake Message When entering .awake command.",
       "value": "",
       "required": false
+}
