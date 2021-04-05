@@ -4,6 +4,7 @@
 [![Stars](https://img.shields.io/github/stars/AnimeKaizoku/SibylSystem?style=social)](https://github.com/AnimeKaizoku/SibylSystem "Sibyl System")
 [![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen)](https://github.com/AnimeKaizoku/SibylSystem "Sibyl System")
 
+  [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/majid-nex/SibylSystem.git
 # Sibyl System
 > A proactive judgement system for group chats.
 
